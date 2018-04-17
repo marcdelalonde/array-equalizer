@@ -1,0 +1,16 @@
+{
+  "name": "array-equalizer",
+  "version": "1.0.0",
+  "description": "A simple array equalizer",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "4.1.x",
+    "mocha": "5.1.x"
+  }
+}
